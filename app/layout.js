@@ -31,7 +31,7 @@ export default function RootLayout({ children }) {
         <div className="border-b border-zinc-800 bg-zinc-900/70 backdrop-blur">
           <div className="mx-auto flex w-full max-w-7xl items-center px-4 py-3 md:px-8">
             <Link href="/" className="text-lg font-semibold text-white">
-              Rep Catalog
+              Freaky Reps
             </Link>
           </div>
         </div>
