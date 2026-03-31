@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Rep Catalog",
+  title: "Freaky Reps",
   description: "Modern fashion product catalog with admin panel",
 };
 
