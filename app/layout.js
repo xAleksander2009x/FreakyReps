@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Freaky Reps",
-  description: "Modern fashion product catalog with admin panel",
+  description: "Modern Kakobuy SpreadSheet",
 };
 
 export default function RootLayout({ children }) {
