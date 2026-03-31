@@ -42,7 +42,7 @@ export default function Home() {
   return (
     <div className="mx-auto w-full max-w-7xl px-4 py-8 md:px-8">
       <header className="mb-6">
-        <h1 className="text-3xl font-bold text-white">Rep Catalog</h1>
+        <h1 className="text-3xl font-bold text-white">Freaky Reps</h1>
         <p className="mt-1 text-zinc-400">Modern fashion finds with QC transparency.</p>
       </header>
 
